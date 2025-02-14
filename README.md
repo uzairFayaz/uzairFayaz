@@ -10,6 +10,8 @@ Key Skills & Interests:
 ✔ Jetpack Compose | Android Development
 ✔ Unit Testing (JUnit, Mockito)
 ✔ Cloud Deployment (Heroku, AWS, GCP)
+✔ AI/ML | TensorFlow ,keras ,kaggle
+
 
 I am constantly learning and exploring new technologies to enhance my skills. My goal is to become a proficient software developer, contributing to innovative solutions in backend and Android development.
 </p>
